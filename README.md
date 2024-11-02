@@ -6,9 +6,9 @@
 ### Team Name: iSUPPORT
 
 ### Team Members
-- Team Lead: Sana p  - St. Joseph's College Devagiri
-- Member 2: Sivani- (https://github.com/) St. Joseph's College Devagiri
-- Member 3: Niha -p (https://github.com/
+- Team Lead: Sana p  - (https://github.com/sana499)-St. Joseph's College Devagiri
+- Member 2: Sivani- (https://github.com/sivanigs)-St. Joseph's College Devagiri
+- Member 3: Niha -p (https://github.com/Nihap430)-St. Joseph's College Devagiri
 ### Project Description
 [The "Generating Insult" software addresses the need for lighthearted entertainment and humor in social interactions. It provides users with a playful way to engage with friends or family, offering amusing and witty insults that are intended to be harmless and fun. This project helps break the ice in conversations, adds an element of surprise, and encourages laughter, making it ideal for parties, 
 social gatherings, or casual online interactions. By focusing on humor, it alleviates stress and promotes a joyful atmosphere while ensuring that the insults remain light and non-offensive.]
@@ -46,12 +46,14 @@ We implemented the project using JavaScript, XML, and CSS, creating different co
 This is the main homepage for our project.
 
 ![Feature 1: MagiDecision Maker](https://github.com/sana499/tinker-hub-useless-projects/blob/main/Screenshot%202024-11-01%20181736.png)
-In this feature, when you type something in the box, it will show new funny quotes with images!
+In this feature, when you click the tab, it will show new funny quotes with images!
 
 ![Feature 2: Dramatic Typing SoundBoard](https://github.com/sana499/tinker-hub-useless-projects/blob/main/Screenshot%202024-11-01%20181752.png)
-In this feature, when you type something in the box, it will show new funny quotes with images!
+In this feature, when you click the tab, it will show new funny quotes with images!
 
 ### Project Demo
+# Live Link
+(https://tinker-hub-useless-projects.vercel.app/)
 # Video
 [![TinkerHub - Useless Project](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/0OceMgeARrY)
 We are demonstrating our web app, which has an amazing homepage containing 5 features displayed with elements of surprise!!
